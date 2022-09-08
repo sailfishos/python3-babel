@@ -1,0 +1,3 @@
+[submodule "python3-babel"]
+	path = python3-babel
+	url = https://github.com/sailfishos-mirror/babel.git
